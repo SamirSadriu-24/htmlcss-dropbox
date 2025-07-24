@@ -335,3 +335,35 @@ li{
     color:black;
     text-decoration: none;
 }
+
+.more_operations{
+    width: 70%;
+    margin: 0 auto;
+    text-align: left;
+}
+
+.more_operations h2{
+    font-size:40px;
+    margin:40px 0px;
+}
+
+.card{
+    border:none;
+    width: calc((100% / 3) - (60px / 3));
+
+}
+
+.card img{
+    align-items: center;
+    width: calc(100%);
+}
+
+.card h2{
+    font-size:25px;
+
+}
+
+.card p{
+    font-size:15px;
+}
+
